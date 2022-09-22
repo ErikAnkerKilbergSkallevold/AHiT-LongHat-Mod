@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\guimian\a_hat_in_time\hats\hat_kid_base_hat\rose"
+	"$bumpmap" "models\guimian\A_Hat_In_Time\Hat_Kid\flat_normal"
+	"$phongexponenttexture" "models\guimian\A_Hat_In_Time\Hat_Kid\flat_exp"
+
+	"$phong" "1"
+	"$phongboost"	"9.9934895"
+
+	"$phongdisablehalflambert"	"1"
+
+	"$envmap" "models\cubemaps\fallout4cube_dithered_grey"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapfresnel"	"1"
+
+	"$envmaptint"		"[.2 .2 .2]"
+
+$nocull 1
+}
